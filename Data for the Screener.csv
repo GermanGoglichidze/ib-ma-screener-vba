@@ -1,0 +1,11 @@
+﻿CompanyID,CompanyName,TickerSymbol,Sector,Industry,Revenue,EBITDA,NetIncome,TotalDebt,EBITDAMargin,RevenueGrowthRate,DealStatus
+1,Apple Inc.,AAPL,Technology,Hardware,385000,115000,95000,120000,0.3,0.08,Active
+2,Microsoft Corporation,MSFT,Technology,Software,225000,95000,75000,80000,0.42,0.12,Active
+3,Alphabet Inc.,GOOGL,Technology,Internet Services,305000,92000,72000,30000,0.3,0.1,Active
+4,Amazon.com Inc.,AMZN,Technology,E-commerce,575000,75000,35000,165000,0.13,0.11,Active
+5,NVIDIA Corporation,NVDA,Technology,Semiconductors,60000,35000,30000,12000,0.58,0.125,Active
+6,Meta Platforms Inc.,META,Technology,Social Media,135000,52000,40000,45000,0.39,0.09,Active
+7,Broadcom Inc.,AVGO,Technology,Semiconductors,38000,19000,14000,42000,0.5,0.18,Active
+8,Oracle Corporation,ORCL,Technology,Software,52000,22000,11000,95000,0.42,0.06,Active
+9,Adobe Inc.,ADBE,Technology,Software,20000,8500,6000,6500,0.43,0.11,Active
+10,Salesforce Inc.,CRM,Technology,Software,35000,9500,5000,14000,0.27,0.1,Active
